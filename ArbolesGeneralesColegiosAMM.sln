@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArbolesGeneralesColegiosAMM", "ArbolesGeneralesColegiosAMM\ArbolesGeneralesColegiosAMM.vcxproj", "{8A234BC4-93D8-4AF2-A673-28297CDF478F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Debug|x64.ActiveCfg = Debug|x64
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Debug|x64.Build.0 = Debug|x64
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Debug|x86.Build.0 = Debug|Win32
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Release|x64.ActiveCfg = Release|x64
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Release|x64.Build.0 = Release|x64
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Release|x86.ActiveCfg = Release|Win32
+		{8A234BC4-93D8-4AF2-A673-28297CDF478F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E2C990-60AE-48CF-83DE-5F11C18D0D1F}
+	EndGlobalSection
+EndGlobal
